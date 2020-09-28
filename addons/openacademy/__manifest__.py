@@ -11,8 +11,8 @@
             - attendees registration
     """,
 
-    'author': "My Company",
-    'website': "http://www.yourcompany.com",
+    'author': "Ahmed Al-naggar",
+    'website': "https://www.linkedin.com/in/ahmed-al-naggar/",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/13.0/odoo/addons/base/data/ir_module_category_data.xml
