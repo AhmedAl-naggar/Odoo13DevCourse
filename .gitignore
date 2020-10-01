@@ -1,6 +1,5 @@
 # sphinx build directories
 _build/
-odoo/
 setup/
 # dotfiles
 .*
