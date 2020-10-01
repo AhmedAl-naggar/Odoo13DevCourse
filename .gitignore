@@ -1,6 +1,10 @@
 # sphinx build directories
 _build/
-
+addons/
+debian/
+doc/
+odoo/
+setup/
 # dotfiles
 .*
 !.gitignore
